@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Card view. -->
+    <dimen name="card_corner_radius">0dp</dimen>
+    <dimen name="card_elevation">1dp</dimen>
+
+    <dimen name="currency_primary_text_size">30sp</dimen>
+    <dimen name="currency_secondary_text_size">15sp</dimen>
+
+    <!-- Progress view. -->
+    <dimen name="progress_view_height">10dp</dimen>
+    <dimen name="layout_margin">12dp</dimen>
+    <dimen name="empty_view_padding">160dp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="dimen_16sp">16sp</dimen>
+    <dimen name="dimen_24sp">24sp</dimen>
+</resources>

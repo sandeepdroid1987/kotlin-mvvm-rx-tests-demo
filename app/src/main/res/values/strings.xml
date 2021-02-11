@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sandeep-Sample</string>
+
+    <string name="action_refresh">Refresh</string>
+
+    <string name="failure_network_connection">No Network Connection.</string>
+    <string name="failure_server_error">Server Error</string>
+
+    <string name="content_description_empty">No content description.</string>
+
+    <string name="info_not_available">Not Available</string>
+
+    <string name="currency_converter">Currency Converter</string>
+    <string name="base_currency">BASE CURRENCY</string>
+    <string name="enter_amount">Enter amount</string>
+
+
+</resources>
